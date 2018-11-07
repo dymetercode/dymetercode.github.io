@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      New Post
+author:     Ahmet Cecen
+tags: 		post template
+subtitle:  	Some Short Description of Post
+category:  project1
+---
+<!-- Start Writing Below in Markdown -->
+
+# Table of Contents
+
+* TOC
+{:toc}
+
