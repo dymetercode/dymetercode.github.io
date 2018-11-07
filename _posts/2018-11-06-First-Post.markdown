@@ -10,6 +10,3 @@ category:  project1
 
 # Table of Contents
 
-* TOC
-{:toc}
-
